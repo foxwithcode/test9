@@ -1,6 +1,6 @@
 document.addEventListener("DOMContentLoaded", function() {
-    const CLIENT_ID = '590122563126-lbkuqdo7c6np7dkmq1kuu0gnqqil92on.apps.googleusercontent.com';  // 590122563126-lbkuqdo7c6np7dkmq1kuu0gnqqil92on.apps.googleusercontent.com
-    const API_KEY = 'AIzaSyBc-JEmzddU8s2XHcMOL1CmSgQ8NfyLd8A';  // AIzaSyBc-JEmzddU8s2XHcMOL1CmSgQ8NfyLd8A
+    const CLIENT_ID = '590122563126-lbkuqdo7c6np7dkmq1kuu0gnqqil92on.apps.googleusercontent.com';  
+    const API_KEY = 'AIzaSyCz21WJYxyPPbtHZFPpLVR6QzY95167dgQ'; 
     const DISCOVERY_DOCS = ["https://www.googleapis.com/discovery/v1/apis/drive/v3/rest"];
     const SCOPES = 'https://www.googleapis.com/auth/drive.file';
 
